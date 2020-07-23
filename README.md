@@ -25,4 +25,4 @@ rodar:
 
 ## Contato (opcional)
 - Autores: Israel Queiroz Cavalcanti - Tatiana Fagundes - Lourenço Passos
-- E-mails: israel_cavalcanti@hotmail.com -  - lo.passos93@gmail.com
+- E-mails: israel_cavalcanti@hotmail.com - tatiana.fischer@acad.pucrs.br - lo.passos93@gmail.com
