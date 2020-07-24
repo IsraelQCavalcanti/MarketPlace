@@ -23,6 +23,6 @@ rodar:
 1. `npm run build` para gerar uma versão estática do projeto 
 (que ficará na pasta `build`)
 
-## Contato (opcional)
+## Contato
 - Autores: Israel Queiroz Cavalcanti - Tatiana Fagundes - Lourenço Passos
 - E-mails: israel_cavalcanti@hotmail.com - tatiana.fischer@acad.pucrs.br - lo.passos93@gmail.com
